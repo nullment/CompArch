@@ -1,0 +1,6 @@
+All your base are belong to us.
+1 2 4 8 16 32
+1 x 685
+216 4
+5 115
+6 5 3 4 1 2
